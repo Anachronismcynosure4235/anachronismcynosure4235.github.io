@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-09-04-test.md",
+                "file": "_posts/2026-09-04-test.md",
                 "mode": "source",
                 "source": false
               },
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-09-04-test.md",
+                "file": "_posts/2026-09-04-test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2026-09-04-test.md",
+                "file": "_posts/2026-09-04-test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-09-04-test.md",
+                "file": "_posts/2026-09-04-test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,8 +189,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cac595883f0bb82d",
+  "active": "a7441b212aaed6d6",
   "lastOpenFiles": [
-    "2026-09-04-test.md"
+    "_posts/2026-09-04-test.md"
   ]
 }
